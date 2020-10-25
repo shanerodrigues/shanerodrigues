@@ -1,4 +1,4 @@
-[![Shane's github stats](https://github-readme-stats.vercel.app/api?username=shanerodrigues)](https://github.com/shanerodrigues/github-readme-stats)
+[![Shane's github stats](https://github-readme-stats.vercel.app/api?username=shanerodrigues&show_icons=true&theme=nord)](https://github.com/shanerodrigues/github-readme-stats)
 
 <!--
 **shanerodrigues/shanerodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
